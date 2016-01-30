@@ -6,3 +6,17 @@
 .scroll {
   height: 100%;
 }
+
+.image {
+		position: absolute;
+		background-color: tomato;
+		background-image: url('http://www.teylover.nl/afbeeldingen/gebouw/fs/de_eerste_schilderijenzaal_van_teylers_museum_foto_kees_hageman.jpg');
+		background-size: cover;
+		background-position-x: center;
+		width: 100%;
+		height: 100%;
+}
+
+.padding-2 {
+	padding: 10px 0 0;
+}
