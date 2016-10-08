@@ -1,10 +1,10 @@
 # Apptivate #
-[![Github license](https://img.shields.io/github/license/TheAbbeyCode/Apptivate.svg)](#)
-[![GitHub release](https://img.shields.io/github/release/heAbbeyCode/Apptivate.svg)](#)
-[![GitHub issues](https://img.shields.io/github/issues/TheAbbeyCode/Apptivate.svg)](#)
-[![Android version](http://theabbeycode.github.io/Apptivate/assets/badge/android.svg)](#)
-[![IOS version](http://theabbeycode.github.io/Apptivate/assets/badge/ios.svg)](#)
-[![WindowsPhone version](http://theabbeycode.github.io/Apptivate/assets/badge/windowsphone.svg)](#)
+[![Github license](https://img.shields.io/github/license/saintplay/Apptivate.svg)](#)
+[![GitHub release](https://img.shields.io/github/release/saintplay/Apptivate.svg)](#)
+[![GitHub issues](https://img.shields.io/github/issues/saintplay/Apptivate.svg)](#)
+[![Android version](http://saintplay.github.io/Apptivate/assets/badge/android.svg)](#)
+[![IOS version](http://saintplay.github.io/Apptivate/assets/badge/ios.svg)](#)
+[![WindowsPhone version](http://saintplay.github.io/Apptivate/assets/badge/windowsphone.svg)](#)
 
 **Documentation and Development Language**: Spanish(Perú) for local zone development facilities.
 
@@ -32,7 +32,7 @@ Estos problemas sumados con la carencia de medios ante problemas básicos de loc
 Apptivate pretender satisfacer dicha necesidad mediante sus cinco principios fudamentales:
 
 #### Robustez ####
-Apptivate se construirá sobre una base de datos gigante, pero lo más imṕortante: se enfocará en ser de utilidad para la ciudad y en solucionar problemas del día a día. Puedes mirar los Dataset con los que Apptivate funcionará en [DATABASE.md] (https://github.com/TheAbbeyCode/Apptivate/blob/master/DATABASE.md)
+Apptivate se construirá sobre una base de datos gigante, pero lo más imṕortante: se enfocará en ser de utilidad para la ciudad y en solucionar problemas del día a día. Puedes mirar los Dataset con los que Apptivate funcionará en [DATABASE.md] (https://github.com/saintplay/Apptivate/blob/master/DATABASE.md)
 > **Nota**: Los datos altamente sensibles al tiempo como el tráfico y clima no serán incluídos. Apptivate no busca hacerle la competencia a otras aplicaciones excelentes de ese tipo, busca complementarlas.
 
 #### Eficacia ####
@@ -42,7 +42,7 @@ Para una transmisión de datos rápida y eficaz se utilizará una **Web API** (M
 Para Apptivate cada persona es especialmente diferente, por lo que ofrecerá diversas herrmientas de personalización, además mediante la aplicación del *Machine Learning* guardara datos del usuario(de manera **privada** y **segura**) para encontrar patrones de rutas y estadías, que servirán a Apptivate para ofrecer una mejor experiencia de usuario.
 
 #### Interactividad ####
-Apptivate no pretende verse como una mapa totalmente plano, haciendo uso de sus tres principios anteriores, tendrá una gran cantidad de funciones y posibilidades de uso. Apptivate tamabién será capaz de interactuar con **beacons** para fines culturales y educativos; más informacion de los beacons en [BEACONS.md](https://github.com/TheAbbeyCode/Apptivate/blob/master/BEACONS.md)
+Apptivate no pretende verse como una mapa totalmente plano, haciendo uso de sus tres principios anteriores, tendrá una gran cantidad de funciones y posibilidades de uso. Apptivate tamabién será capaz de interactuar con **beacons** para fines culturales y educativos; más informacion de los beacons en [BEACONS.md](https://github.com/saintplay/Apptivate/blob/master/BEACONS.md)
 
 #### Social ####
 Apptivate es una aplicación social, esto no quiere decir que sea una red social, quiere decir que incentivará la comunicacion y la participación, mediante el uso de comentarios, tópicos, *feedback* y  *gamification*; Apptivate también es una aplicación entretenida y sobretodo abierta a la colaboración.
@@ -54,6 +54,6 @@ Todo tipo de colaboraciones serán gratamente recibidas. Si quieres darnos tu op
 - saintplay96@gmmail.com
 - brayancruces@outlook.com
 
-Si quieres ayudar directamente con el desarollo de software por favor abre un *issue* y mira nuetra guia de contribución: [CONTRIBUTING.md] (https://github.com/TheAbbeyCode/Apptivate/blob/master/CONTRIBUTING.md)
+Si quieres ayudar directamente con el desarollo de software por favor abre un *issue* y mira nuetra guia de contribución: [CONTRIBUTING.md] (https://github.com/sanintplay/Apptivate/blob/master/CONTRIBUTING.md)
 
 :wq
