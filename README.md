@@ -14,7 +14,7 @@
 - Ciudad: Lima - Perú
 
 ## Live Demo ##
-Landing Page: [http://theabbeycode.github.io/Apptivate/](http://theabbeycode.github.io/Apptivate/).  
+Landing Page: [http://saintplay.github.io/Apptivate/](http://saintplay.github.io/Apptivate/).  
 **Nota**: Apptivate actualemente esta en versión *Alpha - 1*, lo cual quiere decir que nacimos ayer...  
 Esta demo se utilizará como parte del landing de la aplicación. Una versión web real sera implementada en el futuro.
 
